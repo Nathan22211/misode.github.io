@@ -1,0 +1,16 @@
+{
+    "dir": "ltr",
+    "lang": "de",
+    "name": "Minecraft Generators 1.13 1.14 1.15",
+    "scope": "/",
+    "display": "browser",
+    "start_url": "https://misode.github.io/",
+    "short_name": "Minecraft Gener",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": []
+}
